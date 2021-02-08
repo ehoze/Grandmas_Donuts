@@ -270,6 +270,7 @@ a
     height: 35vh;
     width: 100vw;
     background-color: whitesmoke;
+    padding-bottom: 40px;
 }
 
 .row
@@ -281,10 +282,13 @@ a
 .margin
 {
     margin-left: 50px;
+    border-radius: 10px;
+    font-weight: 0;
 }
 
 #searchbar
 {
+    padding-top: 40px;
     display: flex;
     margin-top: 10px;
     width: 600px;
